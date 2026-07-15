@@ -41,4 +41,5 @@ Bexus Ultimate adalah script **All-in-One** untuk game Blox Fruit di Roblox. Dib
 | **Extra** | Rekomendasi Buah Terbaik | ✅ |
 | **Bypass** | Anti-Cheat Bypass | ✅ |
 | **Bypass** | Teleport Kick Bypass | ✅ |
+
 | **Bypass** | Remote Event Blocker | ✅ |
