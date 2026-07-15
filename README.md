@@ -1,0 +1,2 @@
+# BexusScriptt
+Script buatan dengan 
