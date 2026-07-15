@@ -450,7 +450,7 @@ end
 SetSpeed(100)
 SetJump(200)
 
--- ==================== PANDUAN AWAL ====================
+-- ==================== MENU AWAL (MUNCUL OTOMATIS) ====================
 print("")
 print("====================")
 print("  BEXUS ULTIMATE")
